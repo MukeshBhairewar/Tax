@@ -1,0 +1,14 @@
+D:\skillupfinal\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe.config
+D:\skillupfinal\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe
+D:\skillupfinal\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.pdb
+D:\skillupfinal\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csprojAssemblyReference.cache
+D:\skillupfinal\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csproj.CoreCompileInputs.cache
+D:\skillupfinal\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.exe
+D:\skillupfinal\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.pdb
+D:\My programs\skillupfinal\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe.config
+D:\My programs\skillupfinal\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe
+D:\My programs\skillupfinal\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.pdb
+D:\My programs\skillupfinal\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csprojAssemblyReference.cache
+D:\My programs\skillupfinal\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csproj.CoreCompileInputs.cache
+D:\My programs\skillupfinal\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.exe
+D:\My programs\skillupfinal\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.pdb
